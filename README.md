@@ -16,9 +16,11 @@ SLEEPING_TIME = 3
 ### Linux Installation
 
 **Create your developer account and get twitter keys**
+
 You must have a developer account on Twitter. You also need to create an APP to generate the required authentication keys.
 
 **Configure your bot in the environment file**
+
 The keys and the general configuration of the bot is done in the environment file (.env.example). This file must be renamed to .env.
 
 **Install all modules with pip**
