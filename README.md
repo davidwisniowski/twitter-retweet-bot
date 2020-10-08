@@ -15,6 +15,8 @@ SLEEPING_TIME = 3
 
 ### Linux Installation
 
+- Requires python 3 and pip
+
 **Create your developer account and get twitter keys**
 
 You must have a developer account on Twitter. You also need to create an APP to generate the required authentication keys.
